@@ -17,3 +17,6 @@ El objetivo principal es mostrar cómo `Task.Run` puede utilizarse para operacio
 - **Lenguaje:** C#
 - **Framework:** .NET 6.0
 - **Entorno de desarrollo:** Visual Studio 2022
+
+  ![Screenshot 2025-01-27 165539](https://github.com/user-attachments/assets/f29a06a3-e4bf-48b4-a5d6-ec5ec914112b)
+
