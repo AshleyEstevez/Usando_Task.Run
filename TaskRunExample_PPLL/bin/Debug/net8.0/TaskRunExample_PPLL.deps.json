@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TaskRunExample_PPLL/1.0.0": {
+        "runtime": {
+          "TaskRunExample_PPLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskRunExample_PPLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

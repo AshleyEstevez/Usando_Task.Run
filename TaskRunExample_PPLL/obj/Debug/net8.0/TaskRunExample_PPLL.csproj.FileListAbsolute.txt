@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\TaskRunExample_PPLL\bin\Debug\net8.0\TaskRunExample_PPLL.exe
+C:\Users\PC\Desktop\TaskRunExample_PPLL\bin\Debug\net8.0\TaskRunExample_PPLL.deps.json
+C:\Users\PC\Desktop\TaskRunExample_PPLL\bin\Debug\net8.0\TaskRunExample_PPLL.runtimeconfig.json
+C:\Users\PC\Desktop\TaskRunExample_PPLL\bin\Debug\net8.0\TaskRunExample_PPLL.dll
+C:\Users\PC\Desktop\TaskRunExample_PPLL\bin\Debug\net8.0\TaskRunExample_PPLL.pdb
+C:\Users\PC\Desktop\TaskRunExample_PPLL\obj\Debug\net8.0\TaskRunExample_PPLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TaskRunExample_PPLL\obj\Debug\net8.0\TaskRunExample_PPLL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TaskRunExample_PPLL\obj\Debug\net8.0\TaskRunExample_PPLL.AssemblyInfo.cs
+C:\Users\PC\Desktop\TaskRunExample_PPLL\obj\Debug\net8.0\TaskRunExample_PPLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TaskRunExample_PPLL\obj\Debug\net8.0\TaskRunExample_PPLL.dll
+C:\Users\PC\Desktop\TaskRunExample_PPLL\obj\Debug\net8.0\refint\TaskRunExample_PPLL.dll
+C:\Users\PC\Desktop\TaskRunExample_PPLL\obj\Debug\net8.0\TaskRunExample_PPLL.pdb
+C:\Users\PC\Desktop\TaskRunExample_PPLL\obj\Debug\net8.0\TaskRunExample_PPLL.genruntimeconfig.cache
+C:\Users\PC\Desktop\TaskRunExample_PPLL\obj\Debug\net8.0\ref\TaskRunExample_PPLL.dll
